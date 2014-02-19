@@ -1,10 +1,6 @@
-//
-//  main.cpp
-//  Visual Sorts
-//
-//  Created by Noah Eisen on 2/16/14.
-//  Copyright (c) 2014 Noah Eisen. All rights reserved.
-//
+// Visual Sorts
+// Noah Eisen
+// 2/19/14
 
 #include <iostream>
 #include <vector>
